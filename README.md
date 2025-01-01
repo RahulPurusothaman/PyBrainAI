@@ -1,7 +1,3 @@
-Here's an updated **README.md** with emojis included to make it more engaging:
-
----
-
 # PyBrainAI 🤖
 
 **PyBrainAI** is an intelligent **text-based query system** that leverages **advanced embedding techniques** and **cosine similarity** to provide detailed, accurate answers to **Python**-related queries. The system focuses on delivering answers related to **Python language fundamentals** and **Object-Oriented Programming (OOP)** concepts, ensuring that users receive relevant information within seconds. ⏱️
